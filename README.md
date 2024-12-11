@@ -65,15 +65,8 @@ We welcome contributions to enhance this project, such as:
   Expanding demographic insights.
   Please follow the contribution guidelines provided in the repository.
 
-License
-
-This project is licensed under the Purva262 license. Refer to the LICENSE file for more information.
-
-Disclaimer
-
-The Credit Card Transaction Report is provided for informational and educational purposes only. Users must comply with applicable privacy laws and organizational policies when handling sensitive data.
-
-Contact
+Can go through this youtube link
+https://youtu.be/8XoDVwWdaqI?si=COU9mJnKia7JHh4_
 
 For questions or inquiries, contact Purva Surve at purvasurve2600@gmail.com.
 ![WhatsApp Image 2024-12-11 at 22 39 40_73024430](https://github.com/user-attachments/assets/422a4648-f19c-45bd-8de7-830ee13e4727)
