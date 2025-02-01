@@ -65,9 +65,6 @@ We welcome contributions to enhance this project, such as:
   Expanding demographic insights.
   Please follow the contribution guidelines provided in the repository.
 
-Can go through this youtube link
-https://youtu.be/8XoDVwWdaqI?si=COU9mJnKia7JHh4_
-
 For questions or inquiries, contact Purva Surve at purvasurve2600@gmail.com.
 ![WhatsApp Image 2024-12-11 at 22 39 40_73024430](https://github.com/user-attachments/assets/422a4648-f19c-45bd-8de7-830ee13e4727)
 ![WhatsApp Image 2024-12-11 at 22 40 29_fb26da9e](https://github.com/user-attachments/assets/2d5642f1-f040-4431-869e-864df34f02b3)
